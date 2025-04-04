@@ -48,5 +48,7 @@ public class encapsulationexample {
         System.out.println(s1.getName());
         System.out.println(s1.getRollnumber());
         s1.setMarks(23);
+        s1.setName("samrthjha");
+        System.out.println(s1.getRollnumber());
     }
 }

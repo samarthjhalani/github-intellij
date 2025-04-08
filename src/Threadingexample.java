@@ -1,5 +1,5 @@
 class test1 extends Thread {
-    public void run() {
+    public void fun() {
         try {
             System.out.println("threading is making");
             Thread.sleep(2000);
